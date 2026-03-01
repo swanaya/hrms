@@ -59,7 +59,7 @@ Create an environment file:
 Ensure you create a `.env` file in the `hrms/backend` directory containing the database credentials:
 
 ```env
-DATABASE_URL=postgresql://ketiveedb:Swa984787%40post%236598@122.172.245.217:5436/postgres?sslmode=require
+DATABASE_URL=postgresql-url
 PORT=3009
 ```
 
